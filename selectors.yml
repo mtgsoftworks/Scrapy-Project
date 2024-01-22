@@ -1,0 +1,25 @@
+url:
+    xpath: '//*[@id="photoGallery"]/figure/div[1]/img'
+    type: Text
+name:
+    xpath: '/html/body/div[3]/div[2]/div/div/div[2]/h1'
+    type: Text
+price:
+    xpath: '/html/body/div[3]/div[2]/div/div/div[2]/div[3]/div[1]/p/span'
+    type: Text
+short_description:
+    xpath: '//*[@id="featurebullets_feature_div"]'
+    type: Text
+rating:
+    xpath: '//*[@id="commentsHead"]/div'
+    type: Text
+number_of_reviews:
+    xpath: '//*[@id="puan"]/span'
+    type: Text
+product_description:
+    xpath: '//*[@id="productDescription"]'
+    type: Text
+sales_rank:
+    xpath: '/html/body/div[3]/div[2]/div/div/div[2]/div[1]'
+    type: Text
+
